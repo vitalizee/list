@@ -1,0 +1,21 @@
+{
+  "name": "opSwap",
+  "logoURI": "https://raw.githubusercontent.com/vitalizee/list/main/favicon.png",
+  "keywords": ["opswap"],
+  "timestamp": "2023-07-16T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 204,
+      "address": "0x52784eA99D03C29FB6b40f473297b808D3758823",
+      "name": "opSwap",
+      "symbol": "OPS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/vitalizee/list/main/favicon.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
